@@ -14,7 +14,7 @@
           <span>Home</span>
         </a-menu-item>
         <a-menu-item key="2">
-          <a-icon type="video-camera" />
+          <a-icon type="appstore" />
           <span>Employee Manager </span>
         </a-menu-item>
       </a-menu>
